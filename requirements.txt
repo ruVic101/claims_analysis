@@ -1,0 +1,4 @@
+pyspark~=3.4.1
+pip~=20.2.3
+py4j~=0.10.9.7
+setuptools~=49.2.1
